@@ -18,3 +18,9 @@ Open + space + file | Opens up editor e.g. my_directory open my_file.txt
 mv | move OR change the name of a file. Change the name e.g. ```my_directory mv my_file.txt my_renamed_file.txt```. Move the file e.g. ```my_directory mv my_renamed_file.txt ~/Documents```
 rm | Deletes files e.g. ```my_directory rm my_other_file.txt``` . Does not go to trash, things are gone for good! 
 rm -rf ~| UTTERLY CURSED. NEVER TYPE THIS EVER INTO YOUR COMPUTER.
+
+![We did it](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+
+
+
+
